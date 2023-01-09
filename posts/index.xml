@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Mis notas y repaso del curso</title>
+    <link>https://r00driig00.github.io/posts/</link>
+    <description>Recent content in Posts on Mis notas y repaso del curso</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 20 Dec 2022 10:09:10 +0100</lastBuildDate><atom:link href="https://r00driig00.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agenda</title>
+      <link>https://r00driig00.github.io/posts/lista/</link>
+      <pubDate>Tue, 20 Dec 2022 10:09:10 +0100</pubDate>
+      
+      <guid>https://r00driig00.github.io/posts/lista/</guid>
+      <description>Tareas para 10-10-14 MAtematicas Pagina 14 Ejercicios: 1,2,3,4,5 Lengua Pagina 18 Ejercicios: 1,2,3 </description>
+    </item>
+    
+    <item>
+      <title>1 de ESO</title>
+      <link>https://r00driig00.github.io/posts/tabla/</link>
+      <pubDate>Tue, 20 Dec 2022 09:57:43 +0100</pubDate>
+      
+      <guid>https://r00driig00.github.io/posts/tabla/</guid>
+      <description>Mis notas del curso Asignatura Primer trimestre Segundo trimestre Tercer trimestre Matematicas 8 9 10 Lengua 7 8 9 Inglés 9 8 9 </description>
+    </item>
+    
+  </channel>
+</rss>
